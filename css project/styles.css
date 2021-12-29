@@ -1,0 +1,21 @@
+h2 {
+    color: whitesmoke;
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: white underline wavy;
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: fantasy, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: brown;
+    background-color: burlywood
+}
+
+p {
+    color: rgb(200, 50, 0);
+    background-color: wheat;
+    font-weight: 600;
+    line-height: 2;
+}

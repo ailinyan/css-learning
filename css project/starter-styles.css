@@ -1,0 +1,75 @@
+/* universal selector */
+
+* {
+    color: #020122;
+    background-color: #FFD6E0;
+}
+
+
+/* element selector */
+
+button {
+    size: 30px;
+    background-color: #F7B32B;
+}
+
+
+/* selector list */
+
+h1,
+h2 {
+    color: #A53860
+}
+
+
+/* id selector */
+
+#signup {
+    background-color: #020122;
+    color: #F7B32B
+}
+
+
+/* class selector */
+
+.tag {
+    background-color: #7CA982;
+    color: #e6f8e8;
+    font-size: 16px;
+    font-weight: lighter
+}
+
+.post a {
+    color: #7CA982
+}
+
+footer a {
+    color: #A53860
+}
+
+h2+button {
+    font-size: 20px;
+}
+
+
+/* direct child */
+
+nav>a {
+    color: violet;
+}
+
+input[type="password"] {
+    color: firebrick
+}
+
+section.post:nth-of-type(2n) {
+    background-color: gainsboro;
+}
+
+.post button:hover {
+    background-color: #f78e2b
+}
+
+.post button:active {
+    background-color: firebrick;
+}
