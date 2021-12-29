@@ -1,0 +1,21 @@
+h1 {
+    background-color: blanchedalmond;
+    border: 1px black solid;
+    display: inline;
+}
+
+span {
+    background-color: cornflowerblue;
+    border: 1px black dotted;
+    margin: 20px;
+    padding: 30px;
+}
+
+p {
+    background-color: darkgoldenrod;
+    border: 3px yellowgreen solid;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    display: inline-block;
+}
