@@ -13,6 +13,7 @@ div {
 
 #static #middle {
     position: static;
+    top: 300px
 }
 
 #relative #middle {
